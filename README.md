@@ -1,5 +1,5 @@
 
-Rörelse sensor ----> ESP32.client ----> Laptop/program.client --(TCP?)--> Laptop/program.server ----> ESP32.server ----> buzzer 
+Rörelse sensor --(rå data)--> ESP32.client ----> Laptop/program.client --(TCP?)--> Laptop/program.server ----> ESP32.server ----> buzzer 
 
 TCP hjälp kod för Windows:
 
