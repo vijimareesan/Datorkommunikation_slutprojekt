@@ -68,6 +68,7 @@ void deep_sleep_task(void *args)
                 vTaskDelay(50 / portTICK_PERIOD_MS); 
 
                 // Step 2: Update the button state
+                // test
 
                 button_update(&button);
 
